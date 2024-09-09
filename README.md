@@ -1,12 +1,8 @@
 <h1 align="center">🦊 안녕하세요, 삼색여우입니다! 🌧️</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foxrain-05&label=Profile%20views&color=0e75b6&style=flat" alt="foxrain-05" />
-</p>
-
-### 🌱 성장 중인 기술 스택
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,typescript" />
+  <h3 align="center">🌱 성장 중인 기술 스택</h3>
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs" />
 </p>
 
 ### 💻 코드 스니펫
@@ -15,26 +11,27 @@ const foxrain = {
   code: ["JavaScript", "Python", "TypeScript"],
   tools: ["React", "Node.js", "Docker"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "끊임없이 새로운 기술을 배우고 적용하는 중"
+  challenge: "열심히 개발하는 중"
 }
 ```
 
 ### 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxrain-05&theme=radical" alt="foxrain-05's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=foxrain-05&show_icons=true&theme=radical" alt="foxrain-05's Git" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxrain-05&theme=compact" alt="foxrain-05's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=foxrain-05&show_icons=true&theme=compact" alt="foxrain-05's Git" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="foxrain-05 통계">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=compact" alt="foxrain-05 통계">
 </p>
 
 <p align="center">
+  <h3 align="center">⚡ 연락하기</h3>
   <a href="mailto:1skakaodowx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dead-lock.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
-### ⚡ 재미있는 사실
-- 📚 림버스 컴퍼니 재미있어요.
+### 📚 재미있는 사실
+- 림버스 컴퍼니 재미있어요.
 
 ---
 
