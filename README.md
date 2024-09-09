@@ -35,8 +35,4 @@ const foxrain = {
 
 ---
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-</p>
-
 ⭐️ From [foxrain-05](https://github.com/foxrain-05)
