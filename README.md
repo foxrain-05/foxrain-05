@@ -2,7 +2,7 @@
 
 <h3 align="center">🌱 성장 중인 기술 스택</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,tailwind,docker" />
 </p>
 
 ### 💻 코드 스니펫
