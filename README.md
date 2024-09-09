@@ -5,26 +5,14 @@
   <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,tailwind,docker" />
 </p>
 
-<h3 align="center">💻 코드 스니펫</h3>
+### 💻 코드 스니펫
 ```javascript
 const foxrain = {
   code: ["JavaScript", "Python"],
   tools: ["React", "Node.js", "Docker"],
   architecture: ["design system pattern"],
-  challenge: "열심히 개발하는 중",
-  motto: "매일 조금씩 성장하자!"
-};
-
-function growthMindset() {
-  while (true) {
-    learn();
-    code();
-    improve();
-    if (faced(obstacle)) overcome();
-  }
+  challenge: "열심히 개발하는 중"
 }
-
-growthMindset();
 ```
 
 <h3 align="center">⚡ 연락하기</h3>
