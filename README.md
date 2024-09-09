@@ -1,4 +1,4 @@
-<h1 align="center">🦊 안녕하세요, 삼색여우입니다! 🌧️</h1>
+<h1 align="center">🦊🌧️ 안녕하세요, 삼색여우입니다! </h1>
 
 <h3 align="center">🌱 성장 중인 기술 스택</h3>
 <p align="center">  
