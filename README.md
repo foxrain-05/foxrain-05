@@ -6,7 +6,8 @@
 </p>
 
 <h3 align="center">💻 코드 스니펫</h3>
-```javascript
+```
+javascript
 const foxrain = {
   code: ["JavaScript", "Python"],
   tools: ["React", "Node.js", "Docker"],
