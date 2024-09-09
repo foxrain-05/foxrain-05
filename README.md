@@ -1,8 +1,8 @@
 <h1 align="center">🦊 안녕하세요, 삼색여우입니다! 🌧️</h1>
 
-<p align="center">
-  <h3 align="center">🌱 성장 중인 기술 스택</h3>
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs" />
+<h3 align="center">🌱 성장 중인 기술 스택</h3>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,typescript" />
 </p>
 
 ### 💻 코드 스니펫
@@ -24,8 +24,8 @@ const foxrain = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=compact" alt="foxrain-05 통계">
 </p>
 
-<p align="center">
-  <h3 align="center">⚡ 연락하기</h3>
+<h3 align="center">⚡ 연락하기</h3>
+<p align="center">  
   <a href="mailto:1skakaodowx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dead-lock.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
