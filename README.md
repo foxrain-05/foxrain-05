@@ -1,16 +1,16 @@
 <h1 align="center">🦊🌧️ 안녕하세요, 삼색여우입니다! </h1>
 
 <h3 align="center">🌱 성장 중인 기술 스택</h3>
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,typescript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker,c,css,discordjs,vscode" />
 </p>
 
 ### 💻 코드 스니펫
 ```javascript
 const foxrain = {
-  code: ["JavaScript", "Python", "TypeScript"],
+  code: ["JavaScript", "Python"],
   tools: ["React", "Node.js", "Docker"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["design system pattern"],
   challenge: "열심히 개발하는 중"
 }
 ```
