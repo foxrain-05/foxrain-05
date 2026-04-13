@@ -20,10 +20,10 @@ const foxrain = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxrain-05&theme=compact" alt="foxrain-05's GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=foxrain-05&show_icons=true&theme=compact" alt="foxrain-05's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-jstnlt.vercel.app/api?username=foxrain-05&show_icons=true&theme=compact" alt="foxrain-05's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxrain-05&layout=compact&theme=compact" alt="foxrain-05's Top Languages" />
+  <img src="https://github-readme-stats-git-master-jstnlt.vercel.app/api/top-langs/?username=foxrain-05&layout=compact&theme=compact" alt="foxrain-05's Top Languages" />
 </p>
 
 <h3 align="center">⚡ 연락하기</h3>
